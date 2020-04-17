@@ -1,0 +1,10 @@
+Dockerfile
+.dockerignore
+
+.git
+.gitignore
+.eslintrc.json
+.editorconfig
+
+.DS_STORE
+Thumbs.db
